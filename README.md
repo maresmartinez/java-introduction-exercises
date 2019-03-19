@@ -1,2 +1,2 @@
-#javaExercises
-Back up for practice exercises from textbook for Java 1 class
+# Java Exercises
+Practice Exercises from Introduction to Java Programming (10th edition) by David Liang
